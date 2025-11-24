@@ -1,0 +1,557 @@
+Location,Code,Type,Address,Latitude,Longitude
+Alabama,BHM1,FC,"975 Powder Plant Rd, Bessemer, AL 35022, United States",33.3754879,-87.009997
+Alabama,MOB5,DC,"6735 Trippel Rd, Theodore, AL 36582, United States",,
+Arizona,SAZ1,FC,"3333 S 7th St., Phoenix, AZ 850401182 , Maricopa County",,
+Arizona,TUS2,FC,"6701 S. Kolb Rd., Tucson, AZ 85756 , Pima County",,
+Arizona,DPX1,FC,"500 S. 48th Street, Phoenix, AZ 85034",,
+Arizona,DPX3,FC,"7 E Chandler Blvd, Chandler, AZ 85225",33.3060861,-111.8411884
+Arizona,PHX3,FC,"6835 W. Buckeye Rd. Phoenix, AZ, 85043",,
+Arizona,PHX5,FC,"16920 W. Commerce Drive, Goodyear, AZ 85338",,
+Arizona,PHX6,FC,"4750 W. Mohave Street, Phoenix, AZ 85043",33.43253,-112.1647528
+Arizona,PHX7,FC,"800 N. 75th Avenue, Phoenix, AZ 85043",33.4570786,-112.2253997
+Arizona,PHX8,FC,"800 N. 75th Ave Phoenix, AZ, 85043 – Maricopa County",,
+Arizona,PHX9,FC,"777 S 79th Avenue, Tolleson, Maricopa County, AZ 85353 Arizona",33.441043,-112.2272822
+Arizona,RAZ1,FC,"22 W Washington St, Phoenix, AZ 85004",,
+Arizona,RPX1,FC,"7 W Broadway Rd, Phoenix, AZ 85040",33.4066369,-112.0735465
+Arizona,TFC1,FC,"5050 W. Mohave Street, Phoenix, AZ 85043",33.43118,-112.1594932
+Arizona,UAZ1,FC,"Phoenix, AZ 85001",,
+Arizona,XUSH,FC,"7037 West Van Buren Street, Pheonix, AZ 85043",,
+California,ONT3,FC,"1910 & 2020 E Central Ave. San Bernardino, CA, 92408 – San Bernardino County",,
+California,ONT4,FC,"1910 & 2020 E Central Ave. San Bernardino, CA, 92408 – San Bernardino County",,
+California,ABE7,FC,"12510 Micro Dr, Mira Loma, CA 91752",,
+California,CCO1,FC,"7300 Central Ave, Highland, CA 92407",34.121136,-117.217543
+California,DAV1,FC,"1 Shields Ave, Room 182, Davis, CA 95616",,
+California,DCA2,DC,"5250 Goodman Road, Eastvale, CA 92880 – Riverside County",,
+California,DCK1,FC,"123-127 E Yosemite Ave, Manteca, CA 95336",37.797596,-121.1912779
+California,DLA1,FC,"900 W Florence Ave., Inglewood, CA 90301",,
+California,DLA2,FC,"5650 Dolly Ave., Buena Park, CA 90621",33.880236,-118.0072962
+California,DLA3,FC,"5829 Smithway St., Commerce, CA 90040",34.0051435,-118.1470977
+California,DLA4,FC,"9031 Lurline Ave., Chatsworth, CA 91311",34.2346892,-118.5849647
+California,DLA5,FC,"6250 Sycamore Canyon Blvd., Riverside, CA 92507",,
+California,DLA7,FC,"13271-13299 Central Ave, Chino, CA 91710",,
+California,DLA8,FC,"2815 W. El Segundo Blvd., Hawthorne, CA 90250",33.9165486,-118.3231704
+California,DLA9,FC,"2900 Alton Pkwy, Irvine, CA 92606",33.6818702,-117.8129389
+California,DPS1,FC,"3956-3998 Rosemead Blvd, Rosemead, CA 91770",,
+California,DSD1,FC,"7130 Miramar Rd. 300A, San Diego, CA 92121",,
+California,DSD2,FC,"2777 Loker Ave W., Carlsbad, CA 92010",33.1314972,-117.2563286
+California,DSD3,FC,"725 E 8th St, NationalCity, CA 91950",,
+California,DSF1,FC,"990 Beecher St., San Leandro, CA 94577",,
+California,DSF3,FC,"1700 Montague Expy., San Jose, CA 95131",37.4032256,-121.8983239
+California,DSF4,FC,"100-172 Washington Ave, San Leandro, CA 94577",37.713455,-122.148687
+California,DSF5,FC,"250 Utah Avenue, South San Francisco, CA 94080",37.646146,-122.3967644
+California,DSF6,FC,"6015 Giant Road, Richmond, CA 94080",37.9818571,-122.3522841
+California,DSM1,FC,"1640 W Capitol Ave, West Sacramento, CA 95691",38.5806189,-121.5302634
+California,FAT1,FC,"3575 S Orange Ave, Fresno, CA 93725-9588",36.6836906,-119.7657314
+California,FCA2,FC,"500-534 Beryl St, RedondoBeach, CA 90277",,
+California,FCA3,FC,"1395-1405 Lincoln Blvd, Santa Monica, CA 90401",,
+California,FCA4,FC,"2900 Alton Pkwy, Irvine, CA 92606",33.6818702,-117.8129389
+California,FCA5,FC,"101 S Main St, LosAngeles, CA 90012",,
+California,FCA7,FC,"390 W El Camino Real, Sunnyvale, CA 94087",37.3690182,-122.0370088
+California,FCA8,FC,"Campanile Way, Berkeley, CA 94709",37.8713321,-122.2609013
+California,FJC9,FC,"500 San Bruno Ave, Brisbane, CA 94005",37.6807266,-122.3997328
+California,HCA3,FC,"3334 N SAN FERNANDO RD BLDG E, Los Angeles, CA 90065",,
+California,HLA3,FC,"24208 San Michele Rd. Moreno Valley, CA, 92551 – Riverside County",33.8720683,-117.2381747
+California,KRB1,FC,"555 East Orange Show Rd. San Bernardino, CA 92408-2453 – San Bernardino County",34.0783622,-117.2732931
+California,LAX6,FC,"5119 District Blvd, Los Angeles, CA 90058",33.9942005,-118.1837278
+California,LAX9,FC,"11263 Oleander Ave, Building 1, Fontana, California, 923378006 , San Bernardino County",,
+California,LGB1,FC,"2417 E. Carson St, Long Beach, California, 90810 , Los Angeles County",,
+California,LGB3,FC,"4590 Goodman Way, Building 1, Eastvale, CA 91752-5088",,
+California,LGB4,FC,"27517 Pioneer Ave, Redlands, CA 92374",34.079548,-117.2038977
+California,LGB5,FC,"555 East Orange Show Rd. San Bernardino, CA 92408-2453 – San Bernardino County",,
+California,LGB6,FC,"20901 Krameria Ave, Riverside, CA 92518-1513",33.8798312,-117.2990608
+California,LGB7,FC,"1660 N. Locust Ave., Rialto, CA 92376 , San Bernardino",34.1216353,-117.4097201
+California,LGB8,FC,"1568 N Linden Ave, Rialto, CA 92376",34.1294004,-117.4054851
+California,LGB9,FC,"4375 N Perris Blvd, Perris, California, 92571 , Riverside County",33.849814,-117.2229536
+California,OAK3,FC,"255 Park Center Drive, Patterson City, CA 95363-8876",,
+California,OAK4,FC,"1555 N. Chrisman Road, Tracy, CA 95304-9370",37.7451879,-121.4059622
+California,OAK6,FC,"38811 Cherry Street, Newark, California, 94560-4939",37.5196836,-122.0153818
+California,OAK7,FC,"38811 Cherry St, Newark, CA 94560",37.5196836,-122.0153818
+California,OAK8,FC,"1 Middleton Way, American Canyon, CA 94503",38.2047764,-122.2643718
+California,ONT2,FC,"1910 E Central Ave, San Bernardino, CA 92408, United States",,
+California,ONT6,FC,"24208 San Michele, Moreno Valley, CA 92551",33.8720683,-117.2381747
+California,ONT7,FC,"2020 E Central Avenue, Southgate Building 4, San Bernardino, CA 92408-2606",,
+California,ONT8,FC,"24300 Nandina Ave., Moreno Valley, California, 92551-9534",33.868292,-117.2371219
+California,ONT9,FC,"2125 W San Bernardino Ave, Redlands, CA, United States",,
+California,PCA1,FC,"1565 N MacArthur Drive, Tracy, California 95376 , San Joaquin County (Seasonal facility)",,
+California,PCA2,FC,"1650 East Central Avenue, San Bernardino, California, 92408 , San Bernardino County (Seasonal facility)",,
+California,PSP1,DC,"1010 West Fourth Street, Beaumont, California, 92223 , Riverside County",,
+California,RCA1,FC,"8411 Market St, San Francisco, CA 94103",37.7718953,-122.4232865
+California,RCA2,FC,"500-534 Beryl St, RedondoBeach, CA 90277",,
+California,RCA3,FC,"1395-1405 Lincoln Blvd, Santa Monica, CA 90401",,
+California,RCA4,FC,"2900 Alton Pkwy, Irvine, CA 92606",33.6818702,-117.8129389
+California,RCA5,FC,"101 S Main St, LosAngeles, CA 90012",,
+California,RCA6,FC,"402w Broadway, San Diego, CA 92101",32.7156979,-117.1606319
+California,RCA7,FC,"195-199 E Santa Clara St, San Jose, CA 95113",,
+California,RCA8,FC,"Campanile Way, Berkeley, CA 94709",37.8713321,-122.2609013
+California,RLA4,FC,"111 S Anaheim Blvd, Anaheim, CA 92805",,
+California,RSJ1,FC,"2710 N 1st St, SanJose, CA 95134",,
+California,SCK1,FC,"4611 Newcastle Road, Stockton, California, 95215 , San Joaquin County",37.9133861,-121.2022166
+California,SJC7,FC,"188 Mountain House Pkwy, Tracy, CA 95391",37.7250331,-121.5293522
+California,SJC8,DC,"46724 Lakeview Blvd, Fremont, California, US",,
+California,SMF1,FC,"4900 W Elkhorn Blvd, Metro Air Park, Sacramento, CA 95835-9505",,
+California,SMF3,FC,"4723 S B Street, Stockton, California, 952159446 , San Joaquin County",,
+California,SMF5,FC,"300 Crocker Dr, Vacaville, CA 95688, United States",,
+California,SNA4,FC,2496 W Walnut St. Rialto CA 92376-3009,,
+California,SNA6,FC,"5250 Goodman Road, Eastvale, CA 92880",,
+California,SNA7,FC,"555 East Orange Show Rd. San Bernardino, CA 92408-2453",34.0783622,-117.2732931
+California,SNA8,FC,"555 East Orange Show Rd. San Bernardino, CA 92408-2453",34.0783622,-117.2732931
+California,SNA9,FC,"5250 Goodman Road, Eastvale, CA 92880",,
+California,TBD,FC,"4532 Newcastle Rd, Stockton, CA 95215, United States",37.9141548,-121.1975592
+California,UCA1,FC,"888 Tennessee Street, San Francisco, CA 94112",37.7607987,-122.3899773
+California,UCA2,FC,"Redondo Beach, CA 90277",33.8398289,-118.3845942
+California,UCA3,FC,"11800 W Olympic Blvd., Los Angeles, CA 90064",,
+California,UCA4,FC,"2006 McGaw Ave., Irvine, CA 92614",33.6899248,-117.8456695
+California,UCA5,FC,"Silver Lake, Silver Lake, CA 90001",34.0833494,-118.2722179
+California,UCA6,FC,"2727 Kurtz St., San Diego, CA 92110",32.749895,-117.201052
+California,UCA7,FC,"222 Commercial Street, Sunnyvale, CA 94085",37.378595,-122.0075467
+California,UCA8,FC,"3100 San Pablo Ave. Ste 120, West Berkley, CA 94702",,
+California,UCA9,FC,"2934 Ramona Avenue, Sacramento, CA 95826",38.5474659,-121.4163435
+California,VUBD,FC,"17182 Nevada Avenue, Victorville, CA 92345",34.5741428,-117.3653268
+California,VUGE,FC,"3450 DULLES DR, Mira Loma, CA 91752",,
+California,VUKF,FC,"18120 Bishop Ave, Carson, CA 90746",33.8660678,-118.2425738
+California,VUMX,FC,"241 E Pacific Coast Hwy, Wilmington, CA 90744",33.7908693,-118.2507086
+California,VUPQ,FC,"9211 Kaiser Way, Fontana, CA 92335",,
+California,VUTD,FC,"8291 Milliken Avenue, Rancho Cucomonga, CA 91730",,
+California,XUSD,FC,"1909 Zephyr Street, Stockton, CA 95206",37.9166607,-121.2504043
+California,XUSJ,FC,"1590 Tamarind Ave, Rialto, CA 92376",34.1271468,-117.4249567
+California,XUSV,FC,"2125 San Bernardino Ave, CA",34.077302,-117.1254349
+Colorado,DDV5,DC,"Aurora, Colorado, 80011 , Denver County",,
+Colorado,DEN1,FC,"221-189 E 144th Ave, Thornton, CO 80023, USA",,
+Colorado,DEN2,FC,"24006 East 19th Avenue, Aurora, CO 80019-3705",39.7436473,-104.7101962
+Colorado,DEN3,FC,Grant Street Thornton CO 80023-6622,39.9604948,-104.9819007
+Colorado,DEN6,FC,"480 E 55th Ave, Denver, CO 80216",39.7945205,-104.981048
+Colorado,FCO4,FC,"1437 Bannock St, Denver, CO 80202",39.7391847,-104.9910938
+Colorado,UCO1,FC,"480 E 55th Ave Suite 100, Denver, CO 80216",,
+Connecticut,BDL1,FC,"801 Day Hill Road Windsor, CT 06095",41.876107,-72.694975
+Connecticut,BDL2,FC,"409 Washington Ave, North Haven, CT 06473",41.4133111,-72.8463938
+Connecticut,BDL3,FC,"415 Washington Ave, Building 3, North Haven, CT 06473 , New Haven County",,
+Connecticut,DBO3,FC,"601 Boston Post Rd, Milford, CT 6460",41.2306417,-73.0632748
+Connecticut,DCN1,FC,"1675 Post Rd, Fairfield, CT 6824",41.1407134,-73.2611666
+DC,FWA3,FC,"Healy Cir, Washington, DC 20007",,
+DC,GSE2,FC,"Healy Cir, Washington, DC 20007",,
+DC,RDC1,FC,"1 Scott Cir NW, Washington, DC 20036",,
+DC,RVA1,FC,"7213 Blair Rd NW, Washington, DC 20012",38.9771774,-77.0206213
+Delaware,PHL1,FC,"1 Centerpoint Boulevard, New Castle, DE 19720",39.6639211,-75.590196
+Delaware,PHL3,FC,"1600 Johnson Way, New Castle, DE 19720",39.6621118,-75.5877591
+Delaware,PHL7,FC,"560 Merrimac Avenue, Middletown, DE 19709-4652",39.4502985,-75.7382873
+Delaware,PHL8,FC,"727 N. Broad Street, Middletown, DE 19709-1166",,
+Florida,DJA1,FC,"11084 Cabot Commerce Circle, Jacksonville, FL 32226",,
+Florida,DJX1,FC,"21 E Union St, Jacksonville, FL 32202",,
+Florida,DM01,FC,"Tangelo Park, Orlando, FL 32189",28.4505446,-81.4164403
+Florida,DM11,FC,"15600 NW 15th Ave., Miami Gardens, FL 33169",25.9170587,-80.2266213
+Florida,DMI2,FC,"3200 Northwest 67th Avenue, Miami, FL 33122",25.806567,-80.305033
+Florida,DMI3,FC,"3966 NW 65th Ave, Virginia Gardens, FL 33166",25.8107679,-80.3023661
+Florida,DMO1,FC,"4917 Anzio St, Orlando, FL 32819",,
+Florida,DSR1,FC,"2000 Main St, Sarasota, FL 34237",27.336378,-82.530838
+Florida,DTP1,FC,"108 W Brandon Blvd, Brandon, FL 33511",27.9378248,-82.2860145
+Florida,DTP2,FC,"1868-1950 Beach Dr SE, St. Petersburg, FL 33705",,
+Florida,FFL1,FC,"820 NW 41st St, Doral, FL 33178",25.8115664,-80.3651917
+Florida,FFL2,FC,"1201-1211 Brickell Ave, Miami, FL 33131",25.7652047,-80.1910293
+Florida,FMI3,FC,"3966 NW 65th Ave, Virginia Gardens, FL 33166",25.8107679,-80.3023661
+Florida,JAX1,FC,"12900 Pecan Park Road, Jacksonville, FL 32218",30.4653236,-81.6802939
+Florida,JAX2,FC,"12900 Pecan Park Rd., Jacksonville, FL 32218-2432",,
+Florida,LAL1,FC,"1760 County Line Road, Lakeland, FL 33811",27.9984457,-82.0560095
+Florida,MC05,FC,"305 Deen Still Road, Davenport, FL 33897",,
+Florida,MCO1,FC,"12340 Boggy Creek Rd, Orlando, FL 32824, United States",28.3861283,-81.3123152
+Florida,MIA1,FC,"14000 NW 37th Ave, Opa Locka, FL 33054-6324",25.9029735,-80.2602148
+Florida,MIA6,FC,"3200 NW 67th Avenue, Miami, FL 33122",25.806567,-80.305033
+Florida,PFL1,FC,"1001 13th Avenue East, Bradenton, FL 34208",27.4881544,-82.5541985
+Florida,RFL1,FC,"1201-1211 Brickell Ave, Miami, FL 33131",25.7652047,-80.1910293
+Florida,RFL3,FC,"500 E Zack St, Tampa, FL 33602",27.9508805,-82.4569134
+Florida,RFL4,FC,"2-50 W South St, Orlando, FL 32801",,
+Florida,RMI1,FC,"8855 SW 50th Terrace, Miami, FL 33165",25.7228034,-80.3396445
+Florida,SUOD,FC,"121 Kelsey Ln, Tampa, FL 33619",,
+Florida,TPA1,FC,"351 30th Street NE, Ruskin, FL 33570",27.7241757,-82.3926888
+Florida,TPA2,FC,"1760 County Line Road, Lakeland, FL 33811",27.9984457,-82.0560095
+Florida,UFL1,FC,"15600 NW 15th Ave, Miami Gardens, FL 33169",,
+Florida,UFL2,FC,"101 NE 23rd Street, Miami, FL 33137",,
+Florida,UFL3,FC,"4430 East Adamo Suite 305, Tampa, FL 33605",,
+Florida,UFL4,FC,"7469 Kingspointe Parkway, Orlando, FL 32819 – Orange County",28.4623055,-81.4384801
+Florida,XUSF,FC,"901 West Landstreet Road Suite C, Orlando, FL 32824",,
+Georgia,ALT9,FC,"(920 Highway 124), Braselton, GA 30517",,
+Georgia,ATL2,FC,"2255 W Park Blvd, Stone Mountain, Georgia, 30087 , DeKalb County",,
+Georgia,ATL7,FC,"6855 Shannon Pkwy, Union City, GA 30291-2091",33.5698201,-84.5394174
+Georgia,CGA2,FC,"77 Collier Rd NW, Atlanta, GA 30309",33.8080566,-84.3969404
+Georgia,DAT1,FC,"2-20 E South St, Smyrna, DE 19977",,
+Georgia,DAT2,FC,"1544-1542 E Cleveland Ave, EastPoint, GA 30344",,
+Georgia,DAT3,DC,"2750 Sullivan Rd, Atlanta, GA 30337, United States",33.6221996,-84.4795443
+Georgia,FGA2,FC,"2185-2199 La Dawn Ln NW, Atlanta, GA 30318",,
+Georgia,MGE1,FC,"650 Broadway Ave, Braselton, GA 30517-3002",34.1064981,-83.7719226
+Georgia,MGE3,FC,"808 Hog Mountain Rd., Building F, Jefferson, GA, 30549",,
+Georgia,MGE7,FC,"650 Broadway Ave, Braselton, GA 30517-3002 – Jackson County",34.1064981,-83.7719226
+Georgia,PGA1,FC,"6200 Fulton Industrial Blvd, Atlanta, Georgia, 30336 , Fulton County (Seasonal facility)",,
+Georgia,RAT2,FC,"206 Washington St SW, Atlanta, GA 30334",33.7490553,-84.3881711
+Georgia,RGA2,FC,"206 Washington St SW, Atlanta, GA 30334",33.7490553,-84.3881711
+Georgia,SAV1,FC,"Georgia Ports Authority Garden City Terminal, Building CFS #2, Garden City, GA 31408",,
+Georgia,SAV3,FC,"7001 Skipper Rd., Macon, GA 312166427 , Bibb County",,
+Georgia,TBD,FC,"4995 Skipper Road, Macon, GA",,
+Georgia,UGA1,FC,"Atlanta, GA 30318",33.7544657,-84.3898151
+Georgia,UGA2,FC,"Atlanta, GA 30318",33.7544657,-84.3898151
+Georgia,UGA3,FC,"2160 Breckinridge Blvd Bldg 100 Suite 100, Lawrenceville, GA 30043",,
+Georgia,VUAT,FC,"6855 Shannon Pkwy, Union City, GA 30291",33.5698201,-84.5394174
+Georgia,VUKG,FC,"3201 Centre Parkway, East Point, GA 30344",33.6524961,-84.5099435
+Georgia,VUOJ,FC,"250 Declaration Avenue, Suite 500, McDonough, GA 30253",,
+Georgia,VUPN,FC,"340 Westridge Parkway, McDonough, GA 30253",33.4053172,-84.1876599
+Georgia,VUPK,FC,"6720 Oakley Industrial Blvd, Union City, GA 30291",33.5713384,-84.5219874
+Illinois,DCH1,FC,"2801 S. Western Ave., Chicago, IL 60608",,
+Illinois,DCH2,FC,"8220 Austin Ave., Morton Grove, IL 60053",42.0296851,-87.7765484
+Illinois,DCH3,FC,"4500 Western Ave., Lisle, IL 60532",41.8032687,-88.0972517
+Illinois,DCH4,FC,"3 S Lake St, Mundelein, IL 60060",42.2630044,-88.0038881
+Illinois,DHO1,FC,"501-505 Ridgemoor Dr, Willowbrook, IL 60527",41.7680821,-87.9387683
+Illinois,FIL1,FC,"1162 N Hickory Ave, ArlingtonHeights, IL 60004",,
+Illinois,FIL2,FC,"110 E Irving Park Rd, Wood Dale, IL 60191",,
+Illinois,HIL1,FC,"1111 Cherry Street, Chicago, IL 60642",,
+Illinois,HIL2,FC,"1111 N Cherry Ave, Chicago, IL 60642",41.9026967,-87.6532767
+Illinois,HMW1,FC,"30260 Graaskamp Blvd, Wilmington, Illinois 60481 , Will County",41.3378468,-88.2083868
+Illinois,MDW1,FC,"Greater Chicago Area, Joliet, IL 60433",,
+Illinois,MDW2,FC,"250 Emerald Drive Joliet,IL 60433-3280 United States",,
+Illinois,MDW4,FC,"201 Emerald Drive, Joliet, IL 60433",41.4868153,-88.074674
+Illinois,MDW5,FC,"1125 W Remington Blvd, Romeoville, IL 60556",,
+Illinois,MDW6,FC,"1125 Remington Blvd, Romeoville, IL 60446",41.6740688,-88.1177067
+Illinois,MDW7,FC,"6521 W Monee Manhattan Road, Monee, IL 60449",41.4267577,-87.7707331
+Illinois,MDW8,FC,"1750 Bridge Dr., Waukegan, IL 60085-3004",,
+Illinois,MDW9,FC,"2865 Duke Parkway, Aurora, IL 60502-9551",41.8149559,-88.2127874
+Illinois,MDWX,FC,"2801 S. Western Ave, Chicago, IL 60608",,
+Illinois,MDWY,FC,"Route 59, Aurora, IL 60563",41.7780677,-88.2084482
+Illinois,MDWZ,FC,"Route 59, Aurora, IL 60563",41.7780677,-88.2084482
+Illinois,ORD6,FC,"1250 N Mittel Blvd, Wood Dale, Illinois, US",,
+Illinois,PIL1,FC,"801 Midpoint Road, Minooka, Illinois 60047 , Lake County (Seasonal facility)",,
+Illinois,RCH1,FC,"701-1899 Fellows Pl, NorthChicago, IL 60064",,
+Illinois,RIL1,FC,"310 S Federal St, Chicago, IL 60604",,
+Illinois,SLT7,FC,"3931 Lakeview Corporate Dr., Edwarsville, IL 62025",,
+Illinois,STL4,FC,"3050 Gateway Commerce Center Drive South, Edwardsville, IL 62025",38.7718709,-90.0406468
+Illinois,STL6,FC,"3931 Lakeview Corporate Drive, Edwardsville, IL 62025",38.784143,-90.0770505
+Illinois,STL7,FC,"3931 Lakeview Corporate Drive, Edwardsville, IL 62025",38.784143,-90.0770505
+Illinois,TBD2,FC,"1111 N Cherry Ave, Goose Island, IL 60642",,
+Illinois,TBD3,FC,"401 E Laraway Road, Joliet, IL 40433",41.4811467,-88.0648709
+Illinois,TBD7,FC,"2801 S. Western Ave, Chicago, IL 60608",41.8404011,-87.6835193
+Illinois,TIL1,FC,"1111 N Cherry Street, Chicago, IL 60642",,
+Illinois,UIL1,FC,"1162 N Hickory Ave, ArlingtonHeights, IL 60004",,
+Illinois,UIL2,FC,"1250 N Mittel Blvd, Wood Dale, IL 60191",,
+Illinois,VUOK,FC,"21837 W. Mississippi Ave, Elwood, IL 60421",41.4039834,-88.1154821
+Indiana,DIN1,FC,"1861 Monument Cir, Indianapolis, IN 46204",39.7689086,-86.1575739
+Indiana,IND1,FC,"4255 Anson Boulevard, Whitestown, IN 46075",39.9796754,-86.3796545
+Indiana,IND2,FC,"715 Airtech Parkway, Plainfield, IN 46168",39.7083709,-86.3462687
+Indiana,IND3,FC,"717 Airtech Parkway, Plainfield, IN 46168",39.7083854,-86.346269
+Indiana,IND4,FC,"710 South Girls School Road, Indianapolis, IN 46214",39.7546832,-86.2890998
+Indiana,IND5,FC,"800 S Perry Road, Plainfield, IN 46168",,
+Indiana,IND6,FC,"1453 10th Street, Jeffersonville, IN 47130",38.2890898,-85.7284487
+Indiana,IND7,FC,"9101 Orly Dr, Indianapolis, IN 46241",,
+Indiana,PIN1,FC,"6161 Decatur Blvd, Indianapolis, Indiana 46241 , Marion County (Seasonal Facility)",,
+Indiana,PISA,FC,"900 Patrol Rd, Jeffersonville, IN 47130",38.3787641,-85.6867886
+Indiana,SDF8,FC,"900 Patrol Road, Jeffersonville, IN 47130",38.3787641,-85.6867886
+Indiana,UIN1,FC,"505 S Tibbs Ave, Indianapolis, IN 46241",,
+Indiana,VUHA,FC,"700 Chase Street, Gary, IN 46404",41.598355,-87.3758337
+Indiana,VUMC,FC,"650 Commerce Pkwy W Drive, Greenwood, IN 46143",,
+Indiana,XUSE,FC,"5100 S Indianapolis Road, Whitestown, IN 46075",,
+Kansas,MCI1,FC,"113th Street and Renner Boulevard, Lenexa, KS, 66219",,
+Kansas,MCI7,FC,"27200 W 157th St, New Century, KS 66031",38.8453992,-94.901618
+Kansas,MCIX,FC,"113th Street and Renner Boulevard, Lenexa, KS 66219",,
+Kansas,MKC4,FC,"19645 Waverly Road, Edgerton, KS 66021-9588",,
+Kansas,MKC6,FC,"6925 Riverview Ave., Kansas City, KS 66102",39.0969897,-94.7391231
+Kansas,TUL1,FC,"2654 N US Highway 169 Coffeyville, KS 67337",,
+Kansas,XUSK,FC,"31450 W 196th St., Edgerton, KS 66021",38.7726589,-94.9508048
+Kentucky,CVG1,FC,"1155 Worldwide Blvd. Hebron, KY 41048",39.0846526,-84.713478
+Kentucky,CVG2,FC,"1600 Worldwide Blvd. Hebron, KY 41048",39.0874404,-84.7258207
+Kentucky,CVG3,FC,"3680 Langley Drive, Hebron, KY 41048",39.060182,-84.7135128
+Kentucky,CVG8,FC,"7968 Kentucky Dr, Suites 23, Florence, Kentucky 41042 , Boone County",,
+Kentucky,DKY1,FC,"409 S 5th St, Louisville, KY 40202",,
+Kentucky,IVSA,FC,"4620 Olympic Blvd, Erlanger, Kentucky 41018 , Kenton County",39.0426606,-84.6185606
+Kentucky,IVSB,FC,"3521 POINT PLEASANT RD, Hebron, Kentucky, US",,
+Kentucky,LEX1,FC,"1850 Mercer Road, Lexington, KY 40511",38.0772432,-84.5296355
+Kentucky,LEX2,FC,"172 Trade Street, Lexington, Kentucky 40511",,
+Kentucky,LEX3,FC,"1850 Mercer Rd Lexington, KY 40511 – Fayette County",38.0778404,-84.5331091
+Kentucky,PICV,FC,"1155 Worldwide Blvd., Hebron, KY 41048",39.0846526,-84.713478
+Kentucky,PISB,FC,"376 Zappos.com Blvd, Shepherdsville, KY 40165",,
+Kentucky,PISC,FC,"271 Omega Parkway, Shepherdsville, KY 40165",37.9781109,-85.6833752
+Kentucky,SDF1,FC,"1105 S Columbia Avenue, Campbellsville, KY 42718",37.3260633,-85.3527161
+Kentucky,SDF2,FC,"4360 Robards Lane, Louisville, KY 40218",38.1951343,-85.6927171
+Kentucky,SDF4,FC,"376 Zappos.com Boulevard, Shepherdesville, KY 40165",,
+Kentucky,SDF6,FC,"271 Omega Parkway, Shepherdsville, KY 40165",37.9781109,-85.6833752
+Kentucky,SDF7,FC,"300 Omicron Court, Shepherdsville, KY 40165",37.9638738,-85.6758389
+Kentucky,SDF9,FC,"100 W. Thomas P. Echols Lane, Shepherdsville, KY 40165",,
+Louisiana,DNO1,FC,"337 Carondelet St, NewOrleans, LA 70130",,
+Maryland,BWI0,FC,"2010 Broening Highway, Baltimore, MD 21224",39.2679483,-76.5446963
+Maryland,DBA1,FC,"3800 E Baltimore St, Baltimore, MD 21224",39.2928114,-76.5652993
+Maryland,DCA1,FC,"1700 SPARROWS POINT BLVD, SPARROWS POINT, MD 21219",39.2224691,-76.4690456
+Maryland,DDC2,FC,"861 E Gude Drive, Rockville, MD 20850",39.0982234,-77.1371298
+Maryland,HBA1,DC,"1100 Woodley Rd, Aberdeen, Maryland 210014042 , Harford County",,
+Maryland,MDT2,FC,"600 Principio Parkway West, North East, MD 21901-2914",,
+Maryland,RMD1,FC,"201-211 E Fayette St, Baltimore, MD 21202",,
+Maryland,SUOC,FC,"8750 Larkin Rd, Savage, MD 20763",39.1303392,-76.8106627
+Maryland,TBD,FC,"1600 Sparrow Point B…, Dundalk, MA",,
+MaryLand,XUSL,FC,"610 Chelsea Rd, Aberdeen, MD 21001",,
+MaryLand,XUSM,FC,"610 Chelsea Rd, Aberdeen, MD 21001",,
+Massachusetts,BOS3,FC,"Fall River, MA 2720",,
+Massachusetts,BOS7,FC,"1180 Innovation Way, Fall River, MA 02722",41.7621205,-71.1001379
+Massachusetts,DB01,FC,"201 Beacham Street, Everett (Chelsea), MA 2149",42.3936942,-71.0532586
+Massachusetts,DB02,FC,"500 Sprague St., Dedham, MA 2026",42.2331845,-71.1399363
+Massachusetts,DBO2,FC,"199 Eastern Ave, Dedham, MA 2026",42.243532,-71.16778
+Massachusetts,RMA3,FC,"112-116 Newland St, Boston, MA 2118",42.3401915,-71.0745156
+Massachusetts,UMA3,FC,"30 Northampton Street, Boston, MA 2118",42.3341415,-71.0756619
+MDW3,Illinois,FC,"809 S Wright St, Champaign, IL 61820, United States",40.1082137,-88.2292149
+Michigan,DET2,FC,"50500 Mound Rd, Shelby Township, MI 48317",42.6660889,-83.0497235
+Michigan,DTW2,FC,"32801 Ecorse Rd, Romulus, MI 48174, United States",42.2506052,-83.3616788
+Michigan,DTW3,FC,"23 mile and mound roads, Shelby, MI, 48316",,
+Michigan,GRR1,FC,"4500 68th St. SE, Caledonia (Gaines Township), Michigan 49316 , Kent County",42.8383498,-85.5505083
+Michigan,DET1,FC,"39000 Amrhein Rd, Livonia, MI 48150",42.3743432,-83.4288557
+Michigan,DTW1,FC,"39000 Amrhein Rd., Livonia, MI 48150-1043",42.3743432,-83.4288557
+Minnesota,ATL9,FC,"2232 Northmont Parkway, Duluth, GA 30096",,
+Minnesota,CLE1,FC,"4641 Warrensville Ce… North Randall, 44128",,
+Minnesota,DMN1,FC,"2811 Beverly Drive, Eagen, MN 55121",,
+Minnesota,DMS1,FC,"4216 Pilot Knob Rd, Eagan, MN 55123",44.8043342,-93.1670704
+Minnesota,MSP1,FC,"2601 4th Avenue East, Shakopee, MN 55379",44.8006182,-93.4887011
+Minnesota,RMN1,FC,"301-399 S 4th St, Minneapolis, MN 55401",,
+Minnesota,RMN2,FC,"301-399 S 4th St, Minneapolis, MN 55401",,
+Minnesota,UMN1,FC,"763 Kasota Ave., Minneapolis, MN 55414",44.9815715,-93.2148034
+Mississippi,MEM2,FC,"191 Norfolk Southern Way, Chickasaw Trails Industrial Park Byhalia, Mississippi 386112306 , Marshall County",,
+Missouri,DLI1,FC,"1200 Market St, St. Louis, MO 63103",38.6268322,-90.1994026
+Missouri,STL8,FC,"4000 Premier Parkway, St. Peters, Missouri 63376 , St. Charles County",,
+Nevada,IVSE,FC,"2951 MARION DR UNIT 101 LAS VEGAS, NV 89115-3467 United States",,
+Nevada,IVSF,FC,2821 MARION DR STE 109,,
+Nevada,LAS1,FC,"12300 Bermuda Road, Henderson, Nevada 89044 , Clark County",35.9651878,-115.1519414
+Nevada,LAS2,FC,"3837 Bay Lake Trail, Suite 113, Las Vegas, NV 89193-0001",,
+Nevada,LAS6,FC,"4550 Nexus Way, North Las Vegas, NV 89115",36.2669501,-115.0742947
+Nevada,LAS7,FC,"6001 E. Tropical Parkway, North Las Vegas, NV , Clark County",36.2659488,-115.0409794
+Nevada,LASX,FC,"North Lamb Blvd and Tropical Parkway, North Las Vegas, NV 89081",,
+Nevada,OTC1,FC,"257 S Pavilion Center Dr, LasVegas, NV 89144",,
+Nevada,RNO1,FC,"1600 East Newlands Dr. Fernley, NV 89408",,
+Nevada,RNO2,FC,"8000 North Virginia Street Reno, Reno, NV 85906",,
+Nevada,RNO3,FC,"555 Milan Dr, Sparks, Nevada 89434 , Washoe County",,
+Nevada,RNO4,FC,"8000 North Virginia Street, Reno, NV 89506",39.6038349,-119.8484197
+Nevada,RNV1,FC,"100 E Ogden Ave, Las Vegas, NV 89101",36.172234,-115.144355
+Nevada,UNV1,FC,"3650 East Post Road. Suite E, Las Vegas, NV 89120",,
+New Hampshire,BOS1,FC,"10 State Street, Nashua, NH 03063",42.7919638,-71.5294644
+New Jersey,ABE8,FC,"309 Cedar Lane, Florence Township, NJ 08518",,
+New Jersey,ABEX,FC,"698 Route 46 West, Teterboro, NJ 7608",,
+New Jersey,ACY1,FC,"240 Mantua Grove Rd, West Deptford, NJ 08066",39.8269015,-75.2196549
+New Jersey,ACY2,FC,"1101 E. Pearl St., Burlington, NJ 080161934 , Burlington County",,
+New Jersey,DEW1,FC,"2 Empire Boulevard, Moonachie, NJ 7074",40.8337,-74.052889
+New Jersey,DEW2,FC,"1089 E Jersey St, Elizabeth, NJ 7201",,
+New Jersey,EWR1,FC,"50 New Canton Way Robbinsville, NJ 08691 – Mercer County",40.1956131,-74.5652478
+New Jersey,EWR4,FC,"50 New Canton Way, Robbinsville, NJ 08691",40.1956131,-74.5652478
+New Jersey,EWR6,FC,"275 Omar Avenue, Avenel, NJ 07001",40.5858949,-74.2654673
+New Jersey,EWR7,FC,"275 Omar Avenue, Avenel, NJ 07001",40.5858949,-74.2654673
+New Jersey,EWR8,FC,"698 US-46, Teterboro, NJ 07608",40.8634776,-74.0609685
+New Jersey,EWR9,FC,"8003 Industrial Avenue, Carteret, NJ 07008",,
+New Jersey,FGA3,FC,"2500 Main Street, LawrenceTownship, NJ 8648",,
+New Jersey,IVSC,FC,Uno – West Deptford 1225 Forest Parkway West Deptf,,
+New Jersey,IVSD,FC,UNO – Swedesboro NJ 800 Arlington Blvd Swedesboro,,
+New Jersey,LGA6,FC,"8003 Industrial Ave. Carteret, NJ 07008-3529",,
+New Jersey,LGA7,FC,"380 Middlesex Avenue, Carteret, NJ 07008",40.5693473,-74.2205866
+New Jersey,LGA8,FC,"380 Middlesex Avenue, Carteret, NJ 07008",40.5693473,-74.2205866
+New Jersey,LGA9,FC,"2170 State Route 27, Edison, NJ 08817-3332",,
+New Jersey,SUOE,FC,"74 Kenny Pl, Saddle Brook, NJ 7663",,
+New Jersey,TBD5,FC,"8003 Industrial Ave, Building A, Carteret, NJ 8085",,
+New Jersey,TBDB,FC,"2 Empire Boulevard, Moonachie, NJ 7074",40.8337,-74.052889
+New Jersey,TEB3,FC,"2651 Oldmans Creek Rd, Swedesboro, Logan Township, NJ 08085-4503",,
+New Jersey,TEB6,FC,"22 Highstown-Cranbury Station Road, Cranbury Township, NJ 08512",,
+New Jersey,TTN1,FC,"Florence, NJ 8518",,
+New Jersey,UNJ1,FC,"940 Monroe Street, Hoboken, NJ 7030",40.7493883,-74.0370264
+New York,DYY6,DC,"546 Gulf Ave, Staten Island NY 10314-7120 – Richmond County",40.6194321,-74.1780195
+New York,JFK2,FC,"1100 Bryant Park, NewYork, NY 10036",,
+New York,JFK7,FC,"7 W. 34th St., New York, NY 10001",40.7490225,-73.9855329
+New York,JFK8,FC,"546 GULF AVE, STATEN ISLAND, NY 10314",40.6194321,-74.1780195
+New York,UNY1,FC,"58 Brooklyn Ave, Brooklyn, NY 11216",40.677596,-73.9443131
+New York,ZZZZ,FC,"7 W 34th St, New York, NY 10001, United States",,
+North Carolina,CLT2,FC,"10240 Old Dowd Rd, Charlotte, NC 28214",35.2291786,-80.9684021
+North Carolina,CLT3,FC,"6500 Davidson Hwy, Concord, NC 28027",35.4350869,-80.6556031
+North Carolina,CLT4,FC,"8000 Tuckaseegee Road, Charlotte, NC 28214 , Mecklenburg County",35.2444309,-80.9638496
+North Carolina,DLT1,FC,"101 S Tryon St, Charlotte, NC 28280",,
+North Carolina,RDU1,DC,"4851 Jones Sausage Road, Garner, North Carolina 27529 , Wake County",35.7163719,-78.5876153
+North Carolina,UNC1,FC,"Charlotte, NC 28201",,
+North Carolina,UNC2,FC,"3200 Bush Street, Raleigh, NC 27609",35.8237397,-78.6133344
+Ohio,CLE3,FC,"1115 Babbitt Rd, Euclid, OH 44132, United States",41.5934082,-81.5120833
+Ohio,CIN1,FC,"UC MainStreet, Cincinnati, OH 45219",,
+Ohio,CMH0,FC,"11903 National RD SW Etna Township Park, Etna, OH 43062",,
+Ohio,CMH1,FC,"11999 National Road SW Etna, OH 43062-7793 United States",,
+Ohio,CMH2,FC,"2700 Rohr Road, Groveport, OH 43125",39.8424566,-82.9250056
+Ohio,CMH3,FC,"700 Gateway Blvd., Monroe, OH 450501848 , Warren County",,
+Ohio,CMH4,FC,"1550 W Main St., West Jefferson, Ohio 43162 , Madison County",,
+Ohio,CMH6,FC,"3538 TRADEPORT CT, Lockbourne, Ohio, US",,
+Ohio,DCL1,FC,"790-796 E 222nd St, Euclid, OH 44123",41.6088732,-81.526769
+Ohio,FMD1,FC,"101-199 Mckinley Ave SW, Canton, OH 44702",,
+Ohio,HCM1,FC,"3538 TradePort Ct, Building 2, Lockbourne, OH 43137 – Franklin County",,
+Ohio,LCK1,FC,"Obetz, OH 43207",39.8789527,-82.9507363
+Ohio,PCW1,FC,"27400 Crossroads Pkwy, Rossford, OH 43460, United States",,
+Ohio,POH1,FC,"3880 Groveport Road, Obetz, Ohio 43207 , Franklin County (Seasonal Facility)",,
+Ohio,ROH2,FC,"1 Capitol Square, Columbus, OH 43215",,
+Ohio,TBD,FC,"100 Euclid Square Ma…, Euclid, OH",,
+Ohio,TBD8,FC,"Etna Township Park, Etna, OH 43062",,
+Ohio,TBD9,FC,"Alum Creek Drive, Obetz, OH 43207",39.8881075,-82.9302487
+Ohio,UMD1,FC,"101-199 Mckinley Ave SW, Canton, OH 44702",,
+Ohio,UOH1,FC,"Winton Hills, Cincinnati, OH 45232",,
+Ohio,UOH2,FC,"3563 Interchange Rd, Columbus, OH 43204",39.9726944,-83.1012042
+Ohio,DAY3,FC,"700 Gateway Blvd, Monroe, OH 45050, United States",,
+Oklahoma,OKC1,FC,"9201 S. Portland Ave., Oklahoma City, OK 73159 , Oklahoma County",35.37412,-97.5810762
+Oregon,DP01,FC,"Portland, OR 75234",45.5202471,-122.674194
+Oregon,DPD1,FC,"3333-3681 NW 35th Ave, Portland, OR 97210",,
+Oregon,HPD1,FC,"15000 N. Lombard St., Multnomah, Portland, Oregon 97203-6814 – Multnomah County",,
+Oregon,PDX6,FC,"15000 N. Lombard St, Portland, Oregon, US",45.633331,-122.7682734
+Oregon,PDX7,FC,"4775 Depot Court SE, Salem, OR 973178983 , Marion County",,
+Oregon,PDX9,FC,"1250 NW Swigert Way, Troutdale, OR 97060",45.5532,-122.4011728
+Oregon,ROR1,FC,"11 NW 6th Ave, Portland, OR 97209",,
+Oregon,ROR2,FC,"5243-5299 SW 33rd Dr, Portland, OR 97239",,
+Oregon,UOR1,FC,"2250 Northwest 22nd Avenue, Portland, OR 97210",45.5388623,-122.6963854
+Pennsylvania,ABE1,FC,"705 Boulder Dr Breinigsville, PA 18031 – Lehigh County",40.5578779,-75.6152617
+Pennsylvania,ABE2,FC,"705 Boulder Drive, Breinigsville, PA 18031",,
+Pennsylvania,ABE3,FC,"650 Boulder Drive, Breinigsville, PA 18031",40.55626,-75.6218393
+Pennsylvania,ABE4,FC,"1610 Van Buren Rd., Easton, PA 18045-1707",,
+Pennsylvania,ABE5,FC,"6455 Allentown Boulevard, Harrisburg, PA 17112",,
+Pennsylvania,AVP1,FC,"550 Oak Ridge Road, Hazleton, PA 18202",,
+Pennsylvania,AVP2,FC,"298 First Ave, Covington Township, PA 18424, United States",41.275108,-75.496576
+Pennsylvania,AVP3,FC,"298 First Ave, Covington Township, PA 18424, United States",41.275108,-75.496576
+Pennsylvania,AVP6,FC,"1 Commerce Road, Pittston, PA 18640",41.312211,-75.740208
+Pennsylvania,AVP8,FC,"250 Enterprise Way, Pittston, PA 18640",,
+Pennsylvania,DEW4,FC,"151-199 W Richardson Ave, Langhorne, PA 19047",40.1739525,-74.9255184
+Pennsylvania,DMC1,FC,"401 Hollow Rd, East Stroudsburg, PA 18301",41.0396266,-75.0852748
+Pennsylvania,DPH1,FC,"4219 Richmond Street, Philadelphia, PA 19137",39.9943943,-75.0774104
+Pennsylvania,DPH2,FC,"435 General Maxwell Ln, King of Prussia, PA 19406",,
+Pennsylvania,MDT1,FC,"2 Ames Drive, Carlisle, PA 17015",,
+Pennsylvania,PHL4,FC,"21 Roadway Drive, Carlisle, PA 17015",40.226225,-77.1143716
+Pennsylvania,PHL5,FC,"500 McCarthy Drive, Lewisberry, PA 17339",,
+Pennsylvania,PHL6,FC,"675 Allen Road, Carlisle, PA 17015",40.1876859,-77.2400388
+Pennsylvania,PHL9,FC,"2 Ames Drive, Carlisle, PA 17015",,
+Pennsylvania,PIT1,FC,"2250 Roswell Drive, Pittsburgh, PA 15205",40.4426088,-80.0835228
+Pennsylvania,PPA1,FC,"545 Oak Hill Road, Mountaintop, Pennsylvania 18707 , Luzerne County (Seasonal Facility)",,
+Pennsylvania,VAVP,FC,"250 Enterprise Way, Pittston, PA 18640",,
+Pennsylvania,VUAV,FC,"1 Commerce Road, Pittston, PA 18640",41.312211,-75.740208
+Pennsylvania,VUBA,FC,"1000 Keystone Industrial Park Scranton, PA 18512",,
+Pennsylvania,VUGA,FC,"508 Delaware Avenue West Pittston, PA 18643",41.3305265,-75.8046161
+Pennsylvania,VUGP,FC,"234 Walnut Bottom Road, Shippensburg, PA 17257",40.0591532,-77.494465
+Pennsylvania,XUSC,FC,"40 Logistics Drive, Carlisle, PA 17013",40.1889245,-77.2259457
+Pennsylvania,XUSG,FC,"9645 West Hills Court, Kutztown, PA 19530",40.5853195,-75.7007627
+South Carolina,CAE1,FC,"4400 12th Street Extension, West Columbia, SC 29172",,
+South Carolina,CAE3,FC,"222 Old Wire Road, West Columbia, SC 29172",,
+South Carolina,CHS1,FC,"7290 Investment Drive, N Charleston, SC 29418",32.9247852,-80.0614388
+South Carolina,GSP1,FC,"402 John Dodd Road, Spartanburg, SC 29303-6312",35.0082759,-82.0356262
+Tennessee,BNA1,FC,"14840 Central Pike, Lebanon, TN 37090",36.1333958,-86.4071067
+Tennessee,BNA2,FC,"500 Duke Drive, Lebanon, TN 37090",36.1273155,-86.4050396
+Tennessee,BNA3,FC,"2020 Joe B Jackson Parkway, Murfreesboro, TN 37127",35.781024,-86.3626718
+Tennessee,BNA4,FC,"#BNA4 – 50 Airways Blvd Nashville, TN 37217",,
+Tennessee,CHA1,FC,"7200 Discovery Drive, Chattanooga, TN 37416",,
+Tennessee,CHA2,FC,"225 Infinity Drive NW, Charleston, TN 37310",,
+Tennessee,MEM1,FC,"3292 E Holmes Rd, Memphis, Tennessee, US",35.0082831,-89.9497628
+Tennessee,MEM5,FC,"5155 Citation Dr, Memphis, TN 38118, United States",35.0135409,-89.907925
+Tennessee,RTN1,FC,"600 Church St, Nashville, TN 37219",36.162699,-86.781619
+Tennessee,UTN1,FC,"600 Church St, Nashville, TN 37219",36.162699,-86.781619
+Texas,DAL3,FC,"1301 Chalk Hill Road, Dallas, Texas 75211 , Dallas County",32.7609044,-96.9021848
+Texas,DAL6,FC,"4601 Gold Spike Drive, Fort Worth, TX 76106",32.8288536,-97.3546748
+Texas,DAL9,DC,"1400 Southport Pkwy, Wilmer, TX 75172, United States",,
+Texas,DAU1,FC,"2093-2209 Rutland Dr, Austin, TX 78758",,
+Texas,DAU2,DC,"7000 Metropolis Dr, Austin, TX 78744, United States",30.20648,-97.7045662
+Texas,DDA1,FC,"13341-13399 Bee St, FarmersBranch, TX 75234",,
+Texas,DDA2,FC,"1101-1107 E 15th St, Plano, TX 75074",,
+Texas,DDA3,FC,"401 Commerce St, FortWorth, TX 76102",,
+Texas,DDC1,FC,"12401 North Stemmons Fwy., Farmers Branch, TX 75234",32.9186878,-96.9015125
+Texas,DFW1,FC,"2700 Regent Boulevard, DFW Airport, TX 75261",,
+Texas,DFW6,FC,"940 W Bethel Road, Coppell, TX 75019-4424",32.9580471,-97.0170373
+Texas,DFW7,FC,"700 Westport Parkway, Fort Worth, TX 76177-4513",32.9705254,-97.3357107
+Texas,DFW9,FC,"2700 Regent Blvd, Irving, TX 75063",32.9396905,-97.0283613
+Texas,DWF9,FC,"2700 Regent Blvd., Irving, TX 75063",32.9396905,-97.0283613
+Texas,FTW1,FC,"33333 LBJ FWY, Dallas, Texas, US",32.92545,-96.8167644
+Texas,FTW2,FC,"940 W Bethel Rd, Coppell, TX 75019-4424",32.9580471,-97.0170373
+Texas,FTW3,FC,"15201 Heritage Parkway, Fort Worth, TX 76177-2517",33.0091417,-97.2952151
+Texas,FTW4,FC,"15201 Heritage Parkway, Fort Worth, TX 76177-2517",33.0091417,-97.2952151
+Texas,FTW6,FC,"2601 W Bethel Road, Grapevine (Coppell), Texas 752614034 , Dallas County",,
+Texas,FTW7,FC,"944 W. Sandy Lake Rd, Coppell, TX 75019-3989",32.9753041,-97.0215718
+Texas,FTW8,FC,"3351 Balmorhea Dr. Dallas, TX 75241-7304",,
+Texas,FTW9,FC,944 West Sandy Lake Road,32.9753041,-97.0215718
+Texas,FTX4,FC,"1301-1399 Jackson St, Dallas, TX 75202",,
+Texas,FTX7,FC,"401 Commerce St, FortWorth, TX 76102",,
+Texas,HDA1,FC,"2701 W Bethel Rd, Coppell, TX 75261-4015 – Dallas County",32.9517549,-97.0269337
+Texas,HOU2,FC,"10550 Ella St., Houston, TX 77038-2324",,
+Texas,HOU3,FC,"31555 Highway 90 E, Brookshire, TX 77423-2769",,
+Texas,HOUX,FC,"2701 W Bethel Road, Coppell, TX 75261",32.9517549,-97.0269337
+Texas,HTX1,FC,"4221 Way Out West Drive, Houston, TX 77092",29.8339004,-95.5004162
+Texas,HTX2,FC,"4221 Way Out West Drive, Houston, TX 77092",29.8339004,-95.5004162
+Texas,ITX1,FC,"9851 Fallbrook Pines Drive Suite 100 Houston, TX 77064-3329",,
+Texas,ITX2,FC,"6911 FAIRBANKS N HOUSTON RD SUITE 160 Houston, TX 77040-1437 United States",,
+Texas,PTX1,FC,"2101 Danieldate Road, Lancaster, Texas 75134 , Dallas County (Seasonal Facility)",,
+Texas,RAU1,FC,"11299 Metric Blvd, Austin, TX 78758",30.392094,-97.708258
+Texas,RDA1,FC,"100-248 E Hudgins St, Grapevine, TX 76051",,
+Texas,RDA2,FC,"15700-15704 Hillcrest Rd, Dallas, TX 75248",,
+Texas,RTX2,FC,"501 Congress Ave, Austin, TX 78701",30.2672856,-97.742629
+Texas,RTX3,FC,"998 Bagby St, Houston, TX 77002",29.760214,-95.370075
+Texas,RTX4,FC,"1502 Marilla St, Dallas, TX 75201",32.778359,-96.7895279
+Texas,RTX5,FC,"198 Dolorosa, San Antonio, TX 78205",,
+Texas,SAT1,FC,"6000 Enterprise Avenue, Schertz, TX 78154",,
+Texas,SAT2,FC,"1401 E McCarty Ln, San Marcos, TX 78666",29.8373207,-97.9629487
+Texas,TAM1,FC,"2800 S Texas Avenue Suite 401, Bryan, TX 77802",,
+Texas,TBD,FC,"TBD S Ih 35 Highway, San Marcos, 78666",,
+Texas,TBD6,FC,"4800 LBJ Freeway, Dallas, TX 75241",32.9254889,-96.8115084
+Texas,TBDA,FC,"1300 East McCarty Lane, San Marcos, TX 78666",29.8430122,-97.9760267
+Texas,TTX2,FC,"2209 Rutland Dr Ste B110, Austin, TX 78758",,
+Texas,TTX3,FC,"4221 Way Out West Drive, Houston, TX 77092",29.8339004,-95.5004162
+Texas,TTX4,FC,"6627 Maple Avenue, Dallas, TX 75235",32.8282895,-96.844919
+Texas,UTX1,FC,"Irving, TX 75014",32.8295183,-96.9442177
+Texas,UTX2,FC,"Austin, TX 73301",29.8916488,-96.2443467
+Texas,UTX3,FC,"Houston, TX 77001",29.7589382,-95.3676974
+Texas,UTX5,FC,"198 Dolorosa, San Antonio, TX 78205",29.424221,-98.495504
+Texas,UTX7,FC,"4601 Gold Spike Drive, Fort Worth, TX 76106",32.8288536,-97.3546748
+Texas,UTX8,FC,"2800 S Texas Avenue Suite 401, Bryan, TX 77802",,
+Texas,VUKH,FC,"1901 W Airfield Dr, DFW Airport, TX 75261",,
+Texas,VUPO,FC,"4808 Mountain Creek Parkway, Dallas, TX 75236",32.6729262,-96.9689736
+Texas,XUSB,FC,"14900 Frye Road, Fort Worth, TX 76155",32.8182803,-97.0428728
+Texas,VUPJ,FC,"101 Mars Road, Wilmer, TX 75172",32.576484,-96.67648
+Utah,DUT1,FC,"3701 Atlas Way, West Valley City, UT 84120",40.6915603,-112.0008977
+Utah,HSL1,FC,"355 N. John Glenn Rd., Salt Lake City, UTH 84116 – Salt Lake County",,
+Utah,SLC1,FC,"777 North 5600 West, Salt Lake City, UT 8411",40.7852933,-112.0315345
+Utah,SLC3,FC,"355 N JOHN GLENN RD, Salt Lake City, Utah, US",40.7745813,-112.037591
+Utah,SLC4,FC,"770 South Gladiola, Suite 500, Salt Lake City, Utah 84104 , Salt Lake County",,
+Virginia,BWI4,FC,"165 Business Blvd, Clear Brook, VA 22624-1568",39.2890546,-78.078111
+Virginia,BWI6,FC,"5617 Industrial Drive, Springfield, VA 22151",38.7973941,-77.1723228
+Virginia,DOR1,FC,"Pvt 7 Rd, Chesapeake, VA 23320",,
+Virginia,DRC1,FC,"701 E Grace St, Richmond, VA 23219",,
+Virginia,FVA1,FC,"100 Commerce Street, Springfield, VA 22150",38.782603,-77.1875248
+Virginia,HRC1,FC,"4949 Commerce Road, Richmond, Virginia 23234 – Richmond City",,
+Virginia,ORF1,FC,"3516 South Military Hwy, Chesapeake, VA 23323",36.7722783,-76.3560962
+Virginia,RIC1,FC,"5000 Commerce Way, Petersburg, VA 23803",37.1946962,-77.4930428
+Virginia,RIC2,FC,"1901 Meadowville Technology Parkway, Chester, VA 23836",37.3520749,-77.3268832
+Virginia,UVA1,FC,"5617 Industrial Dr. Suite A, Springfield, VA 22151",,
+Virginia,UVA2,FC,"Chesapeake, VA",36.7168315,-76.2494453
+Virginia,UVA3,FC,"2034 Dabney Road, Richmond, VA 23230",37.5729476,-77.4829543
+Washington,DSE2,FC,"6705 E Marginal Way, Seattle, WA 98108",,
+Washington,*XFR,FC,"2021 7th Avenue, Seattle, WA, 98121",47.614949,-122.3383874
+Washington,ASE1,FC,"20202 84th Ave. S, Bellevue, WA 98004",,
+Washington,BF13,FC,"2700 Center Dr, DuPont, WA 98327, United States",47.1125227,-122.6389637
+Washington,BFI1,FC,"1800 140th Avenue, E Sumner, WA",,
+Washington,BFI3,FC,"2700 Center Drive, Dupont, WA 98327",47.1125227,-122.6389637
+Washington,BFI6,FC,"21005 64th Ave. South; Kent, Washington 98032",,
+Washington,BFI7,FC,"1800 140th Ave E, Sumner, WA 98390",47.2410084,-122.2432923
+Washington,BFIX,FC,"1800 140th Avenue, Sumner, WA 98390",47.2410084,-122.2432923
+Washington,BOS6,FC,"201 Beachman St, Everett, MA 2149",,
+Washington,DBO1,FC,"2064 Hewitt Ave, Everett, WA 98201",47.9791288,-122.2021131
+Washington,DSE4,FC,"2064 Hewitt Ave, Everett, WA 98201",47.9791288,-122.2021131
+Washington,DSE5,FC,"102-104 Rainier Ave S, Renton, WA 98057",47.5012927,-122.2222064
+Washington,FFI6,FC,"10441 SE 240th St, Kent, WA 98031",47.3863715,-122.2004573
+Washington,FSE2,FC,"5100 15th Ave NW, Seattle, WA 98107",,
+Washington,FSE3,FC,"76 South Lander Street, Seattle, WA 98134",47.5799866,-122.335789
+Washington,FWA1,FC,"12601 120th Ave NE, Kirkland, WA 98034",47.713952,-122.181136
+Washington,FWA2,FC,"9600 College Way N, Seattle, WA 98103",,
+Washington,GEG1,FC,"10010 W Geiger Blvd., Spokane, Washington 99224 , Spokane County",47.6006386,-117.5533553
+Washington,HWA1,FC,"11710 118th Ave NE, Building B, Kirkland, WA 98034",,
+Washington,HWA2,FC,"11710 118th Ave NE, Building B, Kirkland, WA 98034",,
+Washington,ISE2,FC,"1227 124th Ave NE Building 2 Suite A200, Bellevue, WA 98004",,
+Washington,PWA1,FC,"2309 Milwaukee Way, Tacoma, Washington 98421 , Pierce County (Seasonal Facility)",,
+Washington,RSE1,FC,"19615 Pacific Hwy, Lynnwood, WA 98036",47.820703,-122.3150248
+Washington,RWA1,FC,"10501-10657 NE 37th Cir, Kirkland, WA 98033",,
+Washington,RWA2,FC,"9600 College Way N, Seattle, WA 98103",47.6992241,-122.3349013
+Washington,RWA4,FC,"909 5th Ave, Seattle, WA 98164",,
+Washington,SEA6,FC,"2646 Rainier Avenue, South Seattle, WA 98144",47.5793417,-122.296916
+Washington,SEA8,FC,"1227 124th Avenue Northeast, Bellevue, WA, 98005",47.6207514,-122.1751273
+Washington,TWA0,FC,"13537 Aurora Ave N, Seattle, WA 98133",47.7278337,-122.3458213
+Washington,UTX4,FC,"PO Box 80387, Seattle, WA 98108",,
+Washington,UWA1,FC,"11710 118th Ave. N.E., Building B, Kirkland, WA 98034",,
+Washington,UWA2,FC,"13537 Aurora Ave. N., North Seattle, WA 98133",47.6910658,-122.3444451
+Washington,UWA3,FC,"2121 8th Ave., Seattle, WA 98121",47.6166473,-122.3390636
+Washington,UWA4,FC,"76 S Lander Street, Seattle, WA 98134",47.5799866,-122.335789
+Washington,VUPM,FC,"22001 84th Avenue, Kent, WA 98032",,
+Washington,ZSE1,FC,"9600 College Way N, Seattle, WA 98103",47.6992241,-122.3349013
+Washington,ZSE2,FC,"20202 84th Ave. S, Bellevue, WA 98004",,
+Wisconsin,DLV1,FC,"5501-5517 Cut-Off Rd, Boulder Junction, WI 54512",,
+Wisconsin,DML1,FC,"3935 W. Mitchell St., Milwaukee, WI 53125",43.0117463,-87.9632813
+Wisconsin,FWI1,FC,"4700 W Mitchell St, West Milwaukee, WI 53214",43.0129144,-87.9735519
+Wisconsin,MKE1,FC,"3501 120th Ave, Kenosha, Wisconsin, 53144-7502",42.6075423,-87.9481383
+Wisconsin,MKE2,FC,"9700 South 13th Street, Oak Creek, Wisconsin 53154 , Milwaukee County",,
+Wisconsin,UWI1,FC,"4111 W Mitchell Street, Milwaukee, WI 53215",43.0117461,-87.9647341
