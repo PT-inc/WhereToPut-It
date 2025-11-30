@@ -37,7 +37,7 @@ public class Baseline {
         this.sc.udf().register("calcDistance", distanceCalculator, DataTypes.DoubleType);
 
         Dataset<Row> distancesToAllCentersDf = cartesianProductDf.withColumn(
-            "distance_between",
+            "distanceBetween",
             callUDF("calcDistance", 
                 col("demandRegionLat").cast(DataTypes.DoubleType),
                 col("demandRegionLng").cast(DataTypes.DoubleType),
@@ -47,11 +47,11 @@ public class Baseline {
         );
 
         Dataset<Row> shortestDistancesDf = distancesToAllCentersDf.groupBy(col("zip"))
-                                        .agg(min(col("distance_between")).as("distance_between"));
+                                        .agg(min(col("distanceBetween")).as("distanceBetween"));
 
-        String[] joinCols = {"zip", "distance_between"};
+        String[] joinCols = {"zip", "distanceBetween"};
         Dataset<Row> closestCentersDf = distancesToAllCentersDf.join(shortestDistancesDf, joinCols)
-                                            .withColumnRenamed("distance_between", "distance_from_nearest_center")
+                                            .withColumnRenamed("distanceBetween", "distanceFromNearestCenter")
                                             .withColumnRenamed("centerCode", "nearestCenterCode")
                                             .drop("centerType", "centerLng", "centerLat"); // Don't need these cols
 
