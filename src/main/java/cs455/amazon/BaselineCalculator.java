@@ -7,12 +7,12 @@ import org.apache.spark.sql.SparkSession;
 import org.apache.spark.sql.types.DataTypes;
 import org.apache.spark.sql.api.java.UDF4;
 
-public class Baseline {
+public class BaselineCalculator {
     private SparkSession sc;
     private String inputPath;
     private String outputPath;
 
-    public Baseline(SparkSession sc, String amazonCentersPath, String demandRegionsPath, String outputPath){
+    public BaselineCalculator(SparkSession sc, String amazonCentersPath, String demandRegionsPath, String outputPath){
         this.sc = sc;
         this.amazonCentersPath = amazonCentersPath;
         this.demandRegionsPath = demandRegionsPath;
