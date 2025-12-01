@@ -8,9 +8,10 @@ import org.apache.spark.sql.types.DataTypes;
 import org.apache.spark.sql.api.java.UDF4;
 
 public class BaselineCalculator {
-    private SparkSession sc;
-    private String inputPath;
-    private String outputPath;
+    private final SparkSession sc;
+    private final String demandRegionsPath;
+    private final String amazonCentersPath;
+    private final String outputPath;
 
     public BaselineCalculator(SparkSession sc, String amazonCentersPath, String demandRegionsPath, String outputPath){
         this.sc = sc;
