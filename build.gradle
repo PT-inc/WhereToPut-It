@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly 'org.apache.spark:spark-core_2.13:3.5.0'
+    compileOnly 'org.apache.spark:spark-sql_2.13:3.5.0'
+}
+
+application {
+    mainClass = 'cs455.spark.Main'
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'cs455.spark.Main'
+    }
+}
