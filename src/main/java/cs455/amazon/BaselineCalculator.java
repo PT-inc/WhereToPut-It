@@ -25,7 +25,8 @@ public class BaselineCalculator {
                                         .withColumnRenamed("Code", "centerCode")
                                         .withColumnRenamed("Type", "centerType")
                                         .withColumnRenamed("Longitude", "centerLng")
-                                        .withColumnRenamed("Latitude", "centerLat");
+                                        .withColumnRenamed("Latitude", "centerLat")
+                                        .withColumnRenamed("demand_score", "demandScore");
 
         Dataset<Row> demandRegionsDf = sc.read().option("header", "true").csv(this.demandRegionsPath)
                                         .withColumnRenamed("lat", "demandRegionLat")
