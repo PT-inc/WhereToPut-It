@@ -30,7 +30,7 @@ public class Optimizer {
         Dataset<Row> cartesianProductDf = baselineDf.crossJoin(candidateLocationsDf);
 
         // Create and register the UDF
-        UDF4<Double, Double, Double, Double> distanceCalculator = new  DistanceCalculatorUDF<>();
+        UDF4<Double, Double, Double, Double, Double> distanceCalculator = new  DistanceCalculatorUDF();
         this.sc.udf().register("calcDistance", distanceCalculator, DataTypes.DoubleType);
 
         Dataset<Row> distanceToCandidatesDf = cartesianProductDf.withColumn(
@@ -58,7 +58,7 @@ public class Optimizer {
             col("improvement").multiply(col("demandScore"))
         );
 
-        Dataset<Row> totalImprovementDf = weightedImprovementsDf.groupby(col("candidateID"))
+        Dataset<Row> totalImprovementDf = weightedImprovementsDf.groupBy(col("candidateID"))
             .agg(sum(col("weightedImprovement")).as("totalImprovement"));
         
         Dataset<Row> bestCandidate = totalImprovementDf.orderBy(
