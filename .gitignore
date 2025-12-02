@@ -1,3 +1,4 @@
 .gradle/
 spark*/
 build/
+output/
