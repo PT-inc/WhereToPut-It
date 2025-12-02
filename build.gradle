@@ -13,11 +13,16 @@ dependencies {
 }
 
 application {
-    mainClass = 'cs455.spark.Main'
+    mainClass = 'cs455.spark.Controller'
 }
 
 jar {
     manifest {
-        attributes 'Main-Class': 'cs455.spark.Main'
+        attributes 'Main-Class': 'cs455.spark.Controller'
     }
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1
+    targetCompatibility = JavaVersion.VERSION_1
 }
