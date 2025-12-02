@@ -7,12 +7,13 @@ import org.apache.spark.sql.SparkSession;
 import org.apache.spark.sql.types.DataTypes;
 import org.apache.spark.sql.api.java.UDF4;
 
-public class Baseline {
-    private SparkSession sc;
-    private String inputPath;
-    private String outputPath;
+public class BaselineCalculator {
+    private final SparkSession sc;
+    private final String demandRegionsPath;
+    private final String amazonCentersPath;
+    private final String outputPath;
 
-    public Baseline(SparkSession sc, String amazonCentersPath, String demandRegionsPath, String outputPath){
+    public BaselineCalculator(SparkSession sc, String amazonCentersPath, String demandRegionsPath, String outputPath){
         this.sc = sc;
         this.amazonCentersPath = amazonCentersPath;
         this.demandRegionsPath = demandRegionsPath;
@@ -24,7 +25,8 @@ public class Baseline {
                                         .withColumnRenamed("Code", "centerCode")
                                         .withColumnRenamed("Type", "centerType")
                                         .withColumnRenamed("Longitude", "centerLng")
-                                        .withColumnRenamed("Latitude", "centerLat");
+                                        .withColumnRenamed("Latitude", "centerLat")
+                                        .withColumnRenamed("demand_score", "demandScore");
 
         Dataset<Row> demandRegionsDf = sc.read().option("header", "true").csv(this.demandRegionsPath)
                                         .withColumnRenamed("lat", "demandRegionLat")
