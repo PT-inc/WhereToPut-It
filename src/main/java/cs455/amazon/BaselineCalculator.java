@@ -35,7 +35,7 @@ public class BaselineCalculator {
         Dataset<Row> cartesianProductDf = demandRegionsDf.crossJoin(amazonCentersDf);
 
         // Create and register the UDF
-        UDF4<Double, Double, Double, Double> distanceCalculator = new  DistanceCalculatorUDF<>();
+        UDF4<Double, Double, Double, Double, Double> distanceCalculator = new  DistanceCalculatorUDF();
         this.sc.udf().register("calcDistance", distanceCalculator, DataTypes.DoubleType);
 
         Dataset<Row> distancesToAllCentersDf = cartesianProductDf.withColumn(

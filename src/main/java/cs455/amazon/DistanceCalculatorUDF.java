@@ -2,7 +2,7 @@ package cs455.amazon;
 
 import org.apache.spark.sql.api.java.UDF4;
 
-public class DistanceCalculatorUDF implements UDF4<Double, Double, Double, Double>{
+public class DistanceCalculatorUDF implements UDF4<Double, Double, Double, Double, Double>{
     @Override
     public Double call(Double lat1, Double lng1, Double lat2, Double lng2) throws Exception{
         final Double earthRadius = 3958.8;
