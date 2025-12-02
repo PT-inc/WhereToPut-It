@@ -1,6 +1,8 @@
 package cs455.amazon;
  
 import org.apache.spark.sql.SparkSession;
+import cs455.amazon.BaselineCalculator;
+import cs455.amazon.Optimizer;
  
 public class Controller {
     public static void main(String[] args) {
@@ -19,7 +21,7 @@ public class Controller {
                                 .appName("WhereToPut-It")
                                 .getOrCreate();
  
-        Baseline baseline = new Baseline(sc, amazonCentersPath, demandRegionsPath, baselineOutputPath);
+        BaselineCalculator baseline = new BaselineCalculator(sc, amazonCentersPath, demandRegionsPath, baselineOutputPath);
         baseline.run();
  
         Optimizer optimizer = new Optimizer(sc, candidateLocationsPath, baselineOutputPath, optimizerOutputPath);
