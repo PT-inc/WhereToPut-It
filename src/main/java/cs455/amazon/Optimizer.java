@@ -9,25 +9,23 @@ import org.apache.spark.sql.api.java.UDF4;
 
 public class Optimizer {
     private final SparkSession sc;
-    private final String candidateLocationsPath;
-    private final String baselinePath;
+    private final Dataset<Row> candidateLocationsDf;
+    private final Dataset<Row> baselineDf;
     private final String outputPath;
 
-    public Optimizer(SparkSession sc, String candidateLocationsPath, String baselinePath, String outputPath){
+    public Optimizer(SparkSession sc, Dataset<Row> candidateLocationsDf, Dataset<Row> baselineDf, String outputPath){
         this.sc = sc;
-        this.candidateLocationsPath = candidateLocationsPath;
-        this.baselinePath = baselinePath;
+        this.candidateLocationsDf = candidateLocationsDf;
+        this.baselineDf = baselineDf;
         this.outputPath = outputPath;
     }
 
     public void run(){
-        Dataset<Row> candidateLocationsDf = sc.read().option("header", "true").csv(this.candidateLocationsPath);
-
-        Dataset<Row> baselineDf = sc.read().option("header", "true").csv(this.baselinePath)
+        Dataset<Row> baselineDf = this.baselineDf
             .withColumn("distanceFromNearestCenter", col("distanceFromNearestCenter").cast(DataTypes.DoubleType))
             .withColumn("demandScore", col("demandScore").cast(DataTypes.DoubleType));
 
-        Dataset<Row> cartesianProductDf = baselineDf.crossJoin(candidateLocationsDf);
+        Dataset<Row> cartesianProductDf = baselineDf.crossJoin(this.candidateLocationsDf);
 
         // Create and register the UDF
         UDF4<Double, Double, Double, Double, Double> distanceCalculator = new  DistanceCalculatorUDF();
@@ -65,7 +63,7 @@ public class Optimizer {
             col("totalImprovement").desc()
         ).limit(1);
 
-        Dataset<Row> bestCandidateDetails = bestCandidate.join(candidateLocationsDf, "candidateID");
+        Dataset<Row> bestCandidateDetails = bestCandidate.join(this.candidateLocationsDf, "candidateID");
         bestCandidateDetails.write().option("header", "true").mode("append").csv(this.outputPath);
     }
 }

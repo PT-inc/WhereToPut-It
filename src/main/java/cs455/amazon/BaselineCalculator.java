@@ -20,13 +20,12 @@ public class BaselineCalculator {
         this.outputPath = outputPath;
     }
 
-    public void run(){
+    public Dataset<Row> run(){
         Dataset<Row> amazonCentersDf = sc.read().option("header", "true").csv(this.amazonCentersPath)
                                         .withColumnRenamed("Code", "centerCode")
                                         .withColumnRenamed("Type", "centerType")
                                         .withColumnRenamed("Longitude", "centerLng")
-                                        .withColumnRenamed("Latitude", "centerLat")
-                                        .withColumnRenamed("demand_score", "demandScore");
+                                        .withColumnRenamed("Latitude", "centerLat");
 
         Dataset<Row> demandRegionsDf = sc.read().option("header", "true").csv(this.demandRegionsPath)
                                         .withColumnRenamed("lat", "demandRegionLat")
@@ -58,7 +57,8 @@ public class BaselineCalculator {
                                             .drop("centerType", "centerLng", "centerLat"); // Don't need these cols
 
 
-        closestCentersDf.write().option("header", "true").mode("append").csv(this.outputPath);
+        closestCentersDf = closestCentersDf.withColumnRenamed("demand_score", "demandScore");
+        return closestCentersDf;
     }
 
 }
