@@ -9,22 +9,21 @@ import cs455.amazon.Optimizer;
  
 public class Controller {
     public static void main(String[] args) {
-        if(args.length != 5){
-            System.err.println("Usage: Controller <amazonCentersPath> <demandRegionsPath> <baselineOutputPath> <optimizerOutputPath> <numCandidates>");
+        if(args.length != 4){
+            System.err.println("Usage: Controller <amazonCentersPath> <demandRegionsPath> <optimizerOutputPath> <numCandidates>");
             System.exit(1);
         }
  
         String amazonCentersPath = args[0];
         String demandRegionsPath = args[1];
-        String baselineOutputPath = args[2];
-        String optimizerOutputPath = args[3];
-        int numCandidates = Integer.valueOf(args[4]);
+        String optimizerOutputPath = args[2];
+        int numCandidates = Integer.valueOf(args[3]);
  
         SparkSession sc = SparkSession.builder()
                                 .appName("WhereToPut-It")
                                 .getOrCreate();
  
-        BaselineCalculator baseline = new BaselineCalculator(sc, amazonCentersPath, demandRegionsPath, baselineOutputPath);
+        BaselineCalculator baseline = new BaselineCalculator(sc, amazonCentersPath, demandRegionsPath);
         Dataset<Row> baselineDf = baseline.run();
 
         CandidateGenerator generator = new CandidateGenerator(sc, demandRegionsPath);
