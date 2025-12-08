@@ -11,13 +11,11 @@ public class BaselineCalculator {
     private final SparkSession sc;
     private final String demandRegionsPath;
     private final String amazonCentersPath;
-    private final String outputPath;
 
-    public BaselineCalculator(SparkSession sc, String amazonCentersPath, String demandRegionsPath, String outputPath){
+    public BaselineCalculator(SparkSession sc, String amazonCentersPath, String demandRegionsPath){
         this.sc = sc;
         this.amazonCentersPath = amazonCentersPath;
         this.demandRegionsPath = demandRegionsPath;
-        this.outputPath = outputPath;
     }
 
     public Dataset<Row> run(){
